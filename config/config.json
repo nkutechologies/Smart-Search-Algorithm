@@ -1,0 +1,11 @@
+{
+    "development": {
+      "username": "root",
+      "password": "root@123",
+      "database": "smart_search_dev",
+      "host": "127.0.0.1",
+      "port": "3306",
+      "dialect": "mysql"
+    }
+  }
+  

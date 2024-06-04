@@ -1,0 +1,24 @@
+{
+  "name": "smart-search",
+  "version": "1.0.0",
+  "description": "Implement an algorithm that given a searchTerm: string is able to extract a group of entities from it. There are 4 types of entities: cities, brands, dish types and diets.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smart",
+    "search",
+    "smart search"
+  ],
+  "author": "NKU Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "nodemon": "^3.1.1",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2"
+  }
+}
